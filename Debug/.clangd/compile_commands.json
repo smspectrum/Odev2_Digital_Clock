@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/efeka/workspace_ccstheia/hafta_8 copy/Debug",
+      "command"   : "clang++ -I\"C:/Users/efeka/workspace_ccstheia/hafta_8 copy\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -I\"C:/ti/ti-cgt-arm_18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -xc",
+      "file"      : "C:/Users/efeka/workspace_ccstheia/hafta_8 copy/hafta_8.c"
+   },
+   {
+      "directory" : "C:/Users/efeka/workspace_ccstheia/hafta_8 copy/Debug",
+      "command"   : "clang++ -I\"C:/Users/efeka/workspace_ccstheia/hafta_8 copy\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -I\"C:/ti/ti-cgt-arm_18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -xc",
+      "file"      : "C:/Users/efeka/workspace_ccstheia/hafta_8 copy/startup_ccs.c"
+   },
+   {
+      "directory" : "C:/Users/efeka/workspace_ccstheia/hafta_8 copy/Debug",
+      "command"   : "clang++ -I\"C:/Users/efeka/workspace_ccstheia/hafta_8 copy\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -I\"C:/ti/ti-cgt-arm_18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -xc",
+      "file"      : "C:/ti/TivaWare_C_Series-2.2.0.295/utils/uartstdio.c"
+   }
+]
